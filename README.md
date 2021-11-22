@@ -30,12 +30,4 @@
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-### 🔥 Focus on project
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wugusaud77&repo=HealthySleep-Web&show_owner=true)](https://github.com/wugusaud77/HealthySleep-Web)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wugusaud77&repo=HealthySleep-Backend&show_owner=true)](https://github.com/wugusaud77/HealthySleep-Backend)
-### 📌 Github
-[![wugusaud77's GitHub stats](https://github-readme-stats.vercel.app/api?username=wugusaud77&hide=contribs)](https://github.com/wugusaud77/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wugusaud77&layout=compact)](https://github.com/wugusaud77/github-readme-stats)
-
-
 
