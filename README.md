@@ -1,6 +1,6 @@
 <p>
-👋&nbsp; Hi there! I am 16 age **Frontend Developer** using Typescript and React.🚀<br/>
-I am developing **Backend Project** too, becase there are no Backend Developer around me 💦
+  👋&nbsp; Hi there! I am 16 age <b>Frontend Developer</b> using Typescript and React.🚀<br/>
+  I am developing <b>Backend Project</b> too, becase there are no Backend Developer around me 💦
 </p>
 
 ### 💪 Skills
