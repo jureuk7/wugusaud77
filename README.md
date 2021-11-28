@@ -1,5 +1,5 @@
 <p>
-  👋&nbsp; Hi there! I am 16 age <b>Frontend Developer</b> using Typescript and React.🚀<br/>
+  👋&nbsp; Hi there! I am 16 age <b>Developer/Designer</b> using Typescript and React.🚀<br/>
   I am developing <b>Backend Project</b> too, becase there are no Backend Developer around me 💦
 </p>
 
