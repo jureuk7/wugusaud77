@@ -1,12 +1,11 @@
 <p>
-  👋&nbsp;만나서 반가워요~ 늘 배움을 원하는 학생 개발자/디자이너 현명입니다.<br/>
+  👋&nbsp;안녕하세요~ 늘 배움을 원하는 학생 개발자/디자이너 현명입니다.<br/>
   저는 주로 Svelte를 사용해서 프론트엔드개발을 하고, Go로 백엔드 개발을 합니다.
 </p>
 
 ### 💪 제가 다룰수 있는 기술들!
 #### 언어 & 프레임워크
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
