@@ -1,29 +1,36 @@
-<p>
-  👋&nbsp;안녕하세요~ 늘 배움을 원하는 학생 개발자/디자이너 현명입니다.<br/>
-  저는 주로 Svelte를 사용해서 프론트엔드개발을 하고, Go로 백엔드 개발을 합니다.
-</p>
-
-### 💪 제가 다룰수 있는 기술들!
-#### 언어 & 프레임워크
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-#### 💦 배우고 있는것들
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-#### 🛠 사용하는 도구들
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+🤚 안녕하세요 ~ 17살 프로그래머(가 되고싶은) 현명입니다.<br>
+보잘것없는 제 깃허브 봐주셔서 감사합니다.
 
 
+<h2>저는 이런 사람입니다.</h2>
+
+<b>SvelteJS, RxJS</b>
+를 사용해서 프론트엔드 개발을 하며
+<br>
+<b>Express,Go</b>
+로 백엔드 개발도 하고있고
+<br>
+<b>Rust,Swift,Flutter,C++</b>
+에 관심이 많습니다.
+
+<h2>현재 저는 이런 일들을 하고 있습니다.</h2>
+
+<ul>
+  <li>Luvelte - 게이머들을 위한 편리한 서비스</li>
+  <li>GenshinWrapper - Rust용 Genshin Impact 비공식 API 프로젝트</li>
+  <li><s>Ingoout - 선린인터넷고등학교 인트라넷 서비스(중단)</s></li>
+  <li>SchoolHelper - 학생들을 위한 편의 서비스</li>
+  <li>COC Bot - 클래시 오브 클랜 전용 디스코드 봇</li>
+  <li>WebTransition Example For SvelteJS - 웹 트랜지션 스벨트 프로젝트 예제</li>
+  <li>개인 기술 블로그 제작중</li>
+</ul>
+
+<h2>저의 작은 목표들</h2>
+
+<ul>
+  <li>acmicpc(백준 온라인 저지) solved.ac 티어 Platinum 이상</li>
+  <li>1일 1커밋 운동으로 깃허브 잔디 심기</li>
+  <li>Rust로 백준 온라인 저지 Ruby이상 문제 풀수있게 되기</li>
+  <li>TypeScript를 프로급으로 다룰수 있게 되기</li>
+  <li>전문가에게 코드리뷰 받아보기</li>
+</ul>
