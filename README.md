@@ -26,6 +26,7 @@
   <li>MTF Project - Coming Soon</li>
   <li>IngoBook - 교과서 PDF 다운로더(선린인터넷고등학교)</li>
   <li>개인 기술 블로그 제작중</li>
+  <li>SuperI - MBTI I들을 위한 플랫폼</li>
 </ul>
 
 <h2>저의 작은 목표들</h2>
