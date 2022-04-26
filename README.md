@@ -22,7 +22,6 @@
   <li>SchoolHelper - 학생들을 위한 편의 서비스(프론트엔드,백엔드,디자인 묵업 참여)</li>
   <li>COC Bot - 클래시 오브 클랜 전용 디스코드 봇(백엔드 프로그래밍)</li>
   <li>WebTransition Example For SvelteJS - 웹 트랜지션 스벨트 프로젝트 예제(프론트엔드 개발)</li>
-  <li>Webpo - 편리한 북마크 관리 웹서비스(프론트엔드, 디자인 묵업 참여)</li>
   <li>IngoBook - 교과서 PDF 다운로더(선린인터넷고등학교)</li>
   <li>개인 기술 블로그 제작중</li>
   <li>SuperI - MBTI I들을 위한 플랫폼</li>
